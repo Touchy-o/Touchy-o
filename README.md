@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Touch.</h1>
 
-<h2 align="left">About me</h3>
+<h2 align="left">About Me</h3>
 
 <p align="left">☕ I'm a novice programmer.</p>
 
